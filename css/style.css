@@ -1,0 +1,11 @@
+body{
+    background-color: grey;
+}
+
+table{
+    background-color: grey;
+}
+
+tr{
+    background-color: rgba(8, 238, 105, .5);
+}
